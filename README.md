@@ -1,0 +1,1 @@
+$env:GOOGLE_APPLICATION_CREDENTIALS="C:\Users\Desarrollador\Documents\Visual Studio Code Proyects\Abril 2020\ProyectoConYoutuber\nodejs-firebase-304db-firebase-adminsdk-etv1h-0410c5d284.json"
